@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! SovietVision☭ v.Soviet 1 by Red Tsar Redreovich */
+/*! Советская☭Электрификация v.Soviet 2 by Red Tsar Redreovich */
 /*! Powered by Pure Stalinium */
 /* DEFAULT SETTINGS */
 :root {
@@ -268,13 +268,13 @@ textarea,
   order: 1;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:before {
-  content: "SovietVision☭";
+  content: "Советская☭Электрификация";
   color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
   text-shadow: 0 0 3px #000;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-  content: "v.Soviet 1";
+  content: "v.Soviet 2";
   color: rgba(255, 255, 255, 0.3);
   font-family: var(--code-font);
   font-size: 10px;
@@ -318,13 +318,13 @@ textarea,
   order: 1;
 }
 .typeMacOS-3EmCyP:before {
-  content: "SV";
+  content: "С☭Э";
   color: var(--main-color);
   font-weight: 700;
   text-shadow: 0 0 3px;
 }
 .typeMacOS-3EmCyP:after {
-  content: "Soviet 1";
+  content: "v.Soviet 2";
   color: rgba(255, 255, 255, 0.3);
 }
 
@@ -1225,13 +1225,13 @@ textarea,
   transition: all 0.5s ease-in-out;
 }
 .container-3baos1:before {
-  content: "SovietVision☭";
+  content: "Советская☭Электрификация";
   right: 50%;
   text-align: right;
   transform: translateX(50%);
 }
 .container-3baos1:after {
-  content: "v.Soviet 1";
+  content: "v.Soviet 2";
   left: 50%;
   text-align: left;
   opacity: 0;
