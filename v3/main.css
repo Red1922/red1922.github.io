@@ -9302,13 +9302,13 @@ textarea::-webkit-scrollbar {
 }
 
 .accountProfileCard-1XCH88 { /* Account Profile */
-  filter: blur(8px);
+  background-color: transparent;
 }
 
 .background-1QDuV2 { /* Account Profile */
-  background-color: transparent;
+  filter: blur(8px);
 }
 
 .userInfo-iCloHO { /* Account Profile */
-  background-color: transparent;
+  filter: blur(8px);
 }
