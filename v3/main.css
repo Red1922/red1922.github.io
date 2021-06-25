@@ -9302,9 +9302,7 @@ textarea::-webkit-scrollbar {
 }
 
 .accountProfileCard-1XCH88 { /* Account Profile */
-  background-color: transparent;
   filter: blur(8px);
-  -webkit-filter: blur(8px);
 }
 
 .background-1QDuV2 { /* Account Profile */
