@@ -9262,10 +9262,6 @@ textarea::-webkit-scrollbar {
 
 /* Extra Elements */
 
-.bd-pub-button .wrapper-25eVIn {
-  background-color: transparent;
-}
-
 .bodyInnerWrapper-26fQXj {
   background-color: transparent;
 }
@@ -9274,6 +9270,14 @@ textarea::-webkit-scrollbar {
   background-color: transparent;
 }
 
-.body-3HBlXn .thin-1ybCId .scrollerBase-289Jih{
+.body-3HBlXn .thin-1ybCId {
+  background-color: transparent;
+}
+
+.scrollerBase-289Jih {
+  background-color: transparent;
+}
+
+.footer-3UKYOU {
   background-color: transparent;
 }
