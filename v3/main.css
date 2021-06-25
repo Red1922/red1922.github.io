@@ -9281,6 +9281,7 @@ textarea::-webkit-scrollbar {
 
 .role-3UN8jj.role-1P70N6 { /* Roles on the start of channels */
   background-color: transparent;
+  border: 2px solid transparent;
 }
 
 .body-2Enz7L.hasSplash-200jeH { /* Server preview overlay */
@@ -9291,6 +9292,15 @@ textarea::-webkit-scrollbar {
   background-color: transparent;
 }
 
-.accountProfileCard-1XCH88 {
+.accountProfileCard-1XCH88 { /* Account Profile */
+  background-color: transparent;
+  border: 2px solid transparent;
+}
+
+.background-1QDuV2 { /* Account Profile */
+  background-color: transparent;
+}
+
+.userInfo-iCloHO { /* Account Profile */
   background-color: transparent;
 }
