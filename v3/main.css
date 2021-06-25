@@ -9288,6 +9288,11 @@ textarea::-webkit-scrollbar {
   background-color: transparent;
 }
 
+.layer-v9HyYc { /* Server preview overlay */
+  background-color: transparent;
+  border: 2px solid transparent;
+}
+
 .footer-3OAEzG { /* Footer of server preview overlay */
   background-color: transparent;
 }
