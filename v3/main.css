@@ -9262,23 +9262,31 @@ textarea::-webkit-scrollbar {
 
 /* Extra Elements */
 
-.bodyInnerWrapper-26fQXj {
+.bodyInnerWrapper-26fQXj { /* Profile */
   background-color: transparent;
 }
 
-.clipContainer-eeROt0 {
+.clipContainer-eeROt0 { /* Reply bar */
   background-color: transparent;
   border: 2px solid transparent;
 }
 
-.body-3HBlXn .thin-1ybCId {
+.body-3HBlXn.thin-1ybCId.scrollerBase-289Jih { /* {Profile} */
   background-color: transparent;
 }
 
-.scrollerBase-289Jih {
+.footer-3UKYOU { /* Grey footer of profile */
   background-color: transparent;
 }
 
-.footer-3UKYOU {
+.role-3UN8jj.role-1P70N6 { /* Roles on the start of channels */
+  background-color: transparent;
+}
+
+.body-2Enz7L.hasSplash-200jeH { /* Server preview overlay */
+  background-color: transparent;
+}
+
+.footer-3OAEzG { /* Footer of server preview overlay */
   background-color: transparent;
 }
