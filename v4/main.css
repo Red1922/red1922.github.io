@@ -474,9 +474,9 @@ textarea,
 }
 .toolbar-1t6TWx [name=Nova_Downloading].icon-22AiRD {
   position: relative;
-  background: url(https://tenor.com/view/centre-of-indian-trade-unions-spin-communism-red-3d-gif-11491861) center/24px no-repeat, linear-gradient(to bottom, var(--main-color), var(--main-color)) 50% 10px/10px 10px no-repeat;
+  background: url(https://clearvision.gitlab.io/icons/cloud_download.svg) center/24px no-repeat, linear-gradient(to bottom, var(--main-color), var(--main-color)) 50% 10px/10px 10px no-repeat;
   -webkit-animation: cv-update-downloading 2.5s ease-in-out infinite;
-          animation: cv-update-downloading 2.5s ease-in-out infinite; /* Default : https://clearvision.gitlab.io/icons/cloud_download.svg */
+          animation: cv-update-downloading 2.5s ease-in-out infinite; 
 }
 .toolbar-1t6TWx .iconWrapper-2OrFZ1 [name=Nova_Download].icon-22AiRD {
   color: var(--main-color);
