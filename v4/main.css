@@ -9351,3 +9351,8 @@ textarea::-webkit-scrollbar {
   background-color: transparent;
   border: 2px solid var(--main-color);
 }
+
+.bumpBox-1r5p3c { /* "Publish message on follow" */
+  background: rgba(0, 0, 0, 0.4);
+  border: 2px solid var(--main-color);
+}
