@@ -9339,8 +9339,8 @@ textarea::-webkit-scrollbar {
 /* Extra Elements */
 
 .role-3UN8jj.role-1P70N6 { /* Roles on the start of channels */
-  background-color: transparent;
-  border: 2px solid transparent;
+  background: rgba(0, 0, 0, 0.4);
+  border-color: transparent
 }
 
 .contents-18-Yxp { /* Roles on the start of channels */
