@@ -1228,7 +1228,7 @@ textarea,
   transform: translateX(50%);
 }
 .container-3baos1:after {
-  content: "v.Soviet 3";
+  content: "v.Soviet 4";
   left: 50%;
   text-align: left;
   opacity: 0;
@@ -9345,4 +9345,9 @@ textarea::-webkit-scrollbar {
 
 .contents-18-Yxp { /* Roles on the start of channels */
   border: 2px solid transparent;
+}
+
+.root-2GkXUO.upsell-34F9Me { /* Nitro notification for long messages smh */
+  background-color: transparent;
+  border: 2px solid var(--main-color);
 }
